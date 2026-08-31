@@ -1,18 +1,18 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "releaseUrl": "https://isimon97.github.io/curavox_poec_releases/",
   "targets": {
     "esp32dev": {
       "url": "https://isimon97.github.io/curavox_poec_releases/firmware-esp32dev.bin",
-      "md5": "435bd0a1c613a6b1676639dc0da2e1e2",
-      "sha256": "abcf7c256392682c6cbe1999b2913a36f0522ec1c8a8cf267eec1faa914a8f7f",
-      "size": 1071872
+      "md5": "05ad8407b3e1141f2ee3cd176c3dce59",
+      "sha256": "e5059df39f288eec1f14439912e3da1d9b5383e085bc8816aee3bb9847f803fd",
+      "size": 1081440
     },
     "esp32s3": {
       "url": "https://isimon97.github.io/curavox_poec_releases/firmware-esp32s3.bin",
-      "md5": "b00acf1cc59fdf2cebdccbc3e594df85",
-      "sha256": "a12d58eb9d31dfa62c14dd6644a056fea13bc6c3c04da27cb2869be0a44b5d30",
-      "size": 1000000
+      "md5": "9cf30f9471101c4e2e14096e888112f1",
+      "sha256": "7f29e6009af771f77b690422350db3e265ed335f870c6cc7d349454b990177f0",
+      "size": 1009520
     }
   }
 }
